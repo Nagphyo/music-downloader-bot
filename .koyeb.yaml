@@ -1,4 +1,0 @@
-setup:
-  buildpacks:
-    - name: heroku/python
-    - name: https://github.com/heroku/heroku-buildpack-ffmpeg-Latest.git
